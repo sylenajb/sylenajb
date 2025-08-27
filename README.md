@@ -15,12 +15,11 @@ This repository showcases my cybersecurity projects—including threat detection
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Honeypot Deployment & Attack Simulation       | <a href="https://google.com">Detection Lab</a>|
+| Azure Vulnerability Scan & Remediation        | <a href="https://google.com">Detection Lab</a>|
+| AWS IAM & Policy Enforcement Project          | SOC Automation Lab|
+| Comprehensive Cybersecurity Program           | SOC Automation Lab|
+| Cybersecurity Awareness Training              | Link |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -38,14 +37,14 @@ This repository showcases my cybersecurity projects—including threat detection
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ISC%C2%B2%20Certified%20in%20Cybersecurity-000000?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-OneTrust%20GRC-0078D7?&style=for-the-badge&logo=onetrust&logoColor=white" />
 
 </div>
 
