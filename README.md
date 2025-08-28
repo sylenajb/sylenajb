@@ -4,7 +4,7 @@
 
 Brief Introduction
 
-An early-career professional passionate about GRC and solving security challenges. As a tech enthusiast, I enjoy applying hands-on skills in threat detection, vulnerability management, and cloud security. I’m driven by curiosity and continuous learning, aiming to make systems and data more secure while tackling real-world problems.
+An early-career professional passionate about GRC and solving security challenges. As a tech enthusiast, I enjoy applying hands-on skills in threat detection, vulnerability management, and cloud security. I’m driven by curiosity and continuous learning, aiming to make systems and data secure while tackling real-world problems.
 
 ## Objective
 
@@ -17,16 +17,23 @@ This repository showcases my cybersecurity projects—including threat detection
 | SIEM Implementation & Log Analysis            | <a href="https://github.com/sylenajb/Honeypot-Deployment-Attack-Simulation/blob/main/README.md"> Honeypot & Threat Detection</a>|
 | Azure Vulnerability Scan & Remediation        | <a href="https://google.com">Detection Lab</a>|
 | AWS IAM & Policy Enforcement Project          | SOC Automation Lab|
-| Comprehensive Cybersecurity Program           | SOC Automation Lab|
+| Cybersecurity Program & GRC Implementation    | <a href="https://github.com/sylenajb/Hikes-R-Us-Cybersecurity-Program-Development"> Hikes R Us - Cybersecurity Program</a>|
 | Cybersecurity Awareness Training              | Link |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Tools & Frameworks
 
 ### Governance, Risk, & Compliance (GRC)
 <div>
 <img src="https://img.shields.io/badge/-ServiceNow-0078D7?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 <img src="https://img.shields.io/badge/-OneTrust-00B14F?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/NIST%20CSF-0a84ff?style=for-the-badge" alt="NIST CSF" /> 
+<img src="https://img.shields.io/badge/PCI--DSS-10b981?style=for-the-badge" alt="PCI-DSS"/> 
+<img src="https://img.shields.io/badge/NIST%20800--53-2563eb?style=for-the-badge" alt="NIST 800-53"/> 
+<img src="https://img.shields.io/badge/RMF-14b8a6?style=for-the-badge" alt="RMF"/> 
+<img src="https://img.shields.io/badge/NIST%20800--171-1d4ed8?style=for-the-badge" alt="NIST 800-171"/> 
+<img src="https://img.shields.io/badge/ISO%2027001-0ea5e9?style=for-the-badge" alt="ISO 27001"/> 
+<img src="https://img.shields.io/badge/SOC%202-8b5cf6?style=for-the-badge" alt="SOC 2"/> 
+
 </div>
 
 ### Cloud
