@@ -14,11 +14,11 @@ This repository showcases my cybersecurity projects—including threat detection
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation & Log Analysis            | <a href="https://github.com/sylenajb/Honeypot-Deployment-Attack-Simulation/blob/main/README.md"> Honeypot & Threat Detection</a>|
-| VM Vulnerability Scan & Remediation              | <a href="https://github.com/sylenajb/Azure-Vulnerability-Assessment-Remediation/blob/main/README.md">Vulnerability Assessment & Remediation</a>|
-| AWS IAM & Policy Enforcement Project          | SOC Automation Lab|
+| SIEM Implementation & Log Analysis            | <a href="https://github.com/sylenajb/Honeypot-Deployment-Attack-Simulation"> Honeypot & Threat Detection</a>|
+| VM Vulnerability Scan & Remediation           | <a href="https://github.com/sylenajb/Azure-Vulnerability-Assessment-Remediation">Vulnerability Assessment & Remediation</a>|
+| Security Awareness Development                | <a href="https://github.com/sylenajb/Gen-AI-Cybersecurity-Article-"> Generative AI Phishing Attacks Article </a>|
 | Cybersecurity Program & GRC Implementation    | <a href="https://github.com/sylenajb/Hikes-R-Us-Cybersecurity-Program-Development"> Hikes R Us - Cybersecurity Program</a>|
-| Cybersecurity Awareness Training              | Link |
+| AWS IAM & Policy Enforcement Project          | In Progress |
 
 ## Tools & Frameworks
 
